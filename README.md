@@ -6,9 +6,10 @@ To the user, the entire process happens in DMs with the bot.
 
 Inspired by Reddit's modmail system.
 
-**⚠ Note on updating to v3.0.0:** If you're currently using a *very* old version of the bot, from before February 2018, you'll first need to update to v2.30.1 and run the bot once before updating to v3.0.0.
+# Modmail for /r/TruckSim
 
-Always take a backup of your `db/data.sqlite` file before updating the bot.
+The /r/TruckSim Mod Mail bot is slightly modified for use of Moderation plugin tools to better help the Admin's. This ranges from bulk-delete command to delete multiple messages at a time to server polls.
+
 
 ## Getting started
 * **[🛠️ Setting up the bot](docs/setup.md)**
@@ -21,7 +22,9 @@ Always take a backup of your `db/data.sqlite` file before updating the bot.
 * [📌 Release notes](CHANGELOG.md)
 * [📚 **Community Guides & Resources**](https://github.com/Dragory/modmailbot-community-resources)
 
+Always take a backup of your `db/data.sqlite` file before updating the bot.
+
 ## Support server
 If you need help with setting up the bot or would like to discuss other things related to it, join the support server on Discord here:
 
-👉 **[Join support server](https://discord.gg/vRuhG9R)**
+👉 **[Join Mod Mail support server](https://discord.gg/vRuhG9R)**
